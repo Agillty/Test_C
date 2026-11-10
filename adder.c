@@ -12,7 +12,16 @@ int main()
 
     sum=a+b;
 
+
     printf("Sum of %d and %d is: %d",a,b,sum);
+
+    
+    int sub;
+    sub=a-b;
+
+    printf("Difference of %d and %d is: %d",a,b,sub);
+
+
 
     return 0;
 
