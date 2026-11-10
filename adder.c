@@ -21,6 +21,12 @@ int main()
 
     printf("Difference of %d and %d is: %d",a,b,sub);
 
+    // 實作成法以及除法
+    int mul;
+    mul=a*b;
+
+    printf("Product of %d and %d is: %d",a,b,mul);
+
 
 
     return 0;
