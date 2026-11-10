@@ -26,6 +26,10 @@ int main()
     mul=a*b;
 
     printf("Product of %d and %d is: %d",a,b,mul);
+    int div;
+    div=a/b;
+
+    printf("Quotient of %d and %d is: %d",a,b,div);
 
 
 
