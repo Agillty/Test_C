@@ -21,6 +21,11 @@ int main()
 
     printf("Difference of %d and %d is: %d",a,b,sub);
 
+    int div;
+    div=a/b;
+
+    printf("Quotient of %d and %d is: %d",a,b,div);
+
 
 
     return 0;
